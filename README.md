@@ -47,5 +47,4 @@ Buy-and-hold had the biggest drop, so the rules did give a smoother ride.
 - prices.txt: one closing price per line, oldest first.)
 - Note: built with help from AI ; I ran, tested and modified it myself.
 
-## Ideas for next steps
-Test more stocks, add a train/test split, try more rules.
+
